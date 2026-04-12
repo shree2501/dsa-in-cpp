@@ -1,2 +1,2 @@
-# DSA in Cpp
-60 Days DSA in Cpp challenge
+# DSA in C++
+60 Days DSA in C++ challenge
